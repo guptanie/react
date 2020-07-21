@@ -1,0 +1,5 @@
+{
+    "git.scanRepositories": [
+        "git clone https://integrator_done@bitbucket.org/integrator_done/demo.git"
+    ]
+}
